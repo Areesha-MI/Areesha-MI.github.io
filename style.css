@@ -101,7 +101,10 @@ a:hover{
 	font-size: 50px;
 	color: rgb(211 193 224);
 }
-
+.list-inline:hover{
+	background-color: black;
+	color: white;
+}
 
 /*Design adjustments using id (1% design remaining)*/#intoduction p{
 	margin-bottom: 40px;
